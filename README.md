@@ -75,3 +75,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 - Thanks to Hugging Face for providing pre-trained ViT-GPT2 model.
 - Inspired by [Transformers by Hugging Face](https://github.com/huggingface/transformers).
+- ![image](https://github.com/r-krishnapriya/imagecaptioning/assets/141714730/6407be44-6d4e-46bf-a458-fe9bd5321592)
+- ![image](https://github.com/r-krishnapriya/imagecaptioning/assets/141714730/5349bf5c-e797-4010-b28b-2e25ecc0f777)
+
+
